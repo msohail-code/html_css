@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+
+}
+/*
+Fast HTML coding trick
+Borders
+
+*/
+
+p{
+	margin: 25px;
+	/*border-style: solid;*/
+}
